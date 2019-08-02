@@ -4,6 +4,8 @@ Simple viewer for the AHN3 'bladindex'.
 
 See https://github.com/bertt/ahn3/blob/master/ahn3.geojson
 
+(ahn3.png)
+
 When clicking on the map, a popup will be shown containing a download link to raw LAZ files, for example: https://geodata.nationaalgeoregister.nl/ahn3/extract/ahn3_laz/C_50GZ2.LAZ
 
 
